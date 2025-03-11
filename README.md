@@ -1,5 +1,6 @@
-# EldenRing-PostureBarMod
-A posture bar mode for the Elden Ring game, creates new user interface elements above the head of the enemy, which indicate how much posture damage the enemy remains.
+# StatusBarMod
+
+This mod is a slight modicication to https://github.com/Mordrog/EldenRing-PostureBarMod which adds togglable status effect bars to every enemy and boss in Elden Ring. These bars may be configured using the included "PostureBarModConfig - StatusBars.ini" which must be renamed to "PostureBarConfig.ini" before using this mod. The INI settings for bar colors and which status bars are drawn may be reloaded at any time using the "RETURN" key. 
 
 ## THIS IS EARLY VERSION - EXPECT SOME BUGS
 
@@ -17,7 +18,7 @@ The mod was created with the intention of presenting enemy posture as a UI eleme
 First you will have to remember that you cannot play on official servers using this (or in fact any) mod.
 To install mod you will have to follow this stes:
 * Download Elden Mod Loader from https://www.nexusmods.com/eldenring/mods/117, and extract it's content where game .exe is
-* Download this mod .zip file from [Nexus Mods](https://www.nexusmods.com/eldenring/mods/3405) or [Github](https://github.com/Mordrog/EldenRing-PostureBarMod/releases/) and extract it's contet inside "mods" folder where game .exe is, on steam path will be something like that "steamapps\common\ELDEN RING\Game\mods"
+* Download this mod .zip file from [Github](https://github.com/Mordrog/EldenRing-PostureBarMod/releases/) and extract it's content inside "mods" folder where game .exe is, on steam path will be something like that "steamapps\common\ELDEN RING\Game\mods"
 * **DISABLE ANTI CHEAT** -  you can for instance use https://www.nexusmods.com/eldenring/mods/90/%EF%BB%BF
 * Run game
 
